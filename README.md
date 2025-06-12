@@ -85,6 +85,4 @@ This project taught me how to:
 
 Thanks to the Pathway Foundations team, my mentors, and all stakeholders who participated in interviews and testing. Special appreciation to my community for inspiring my mission.
 
----
 
-Let me know if you'd like this README tailored for **a specific platform (Weebly, Google Sites, etc.)**, or to include **badges, GitHub Pages deployment steps**, or visuals.

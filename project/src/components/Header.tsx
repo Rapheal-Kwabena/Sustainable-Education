@@ -92,7 +92,7 @@ const Header: React.FC = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold font-display gradient-text">
-                Raphael Gadoh
+                Rapheal Gadoh
               </h1>
               <p className="text-sm text-gray-600">Entrepreneur & Innovator</p>
             </div>

@@ -77,7 +77,7 @@ const Hero: React.FC = () => {
                 <Sparkles className="w-8 h-8" />
               </motion.div>
               <h1 className="text-5xl md:text-7xl font-bold font-display">
-                Raphael Kwabena
+                Rapheal Kwabena
                 <br />
                 <span className="text-4xl md:text-6xl text-white/90">Asomani Gadoh</span>
               </h1>
